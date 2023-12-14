@@ -1,5 +1,7 @@
-Proje Videosu:
+Live:
+https://gy-todo-react.netlify.app/
 
+Proje Videosu:
 
 https://github.com/YildizGokhan/todo-app/assets/144238207/781b6b99-0c9c-4d3b-81b2-e15c66c497a8
 
