@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+Proje Videosu:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+https://github.com/YildizGokhan/todo-app/assets/144238207/781b6b99-0c9c-4d3b-81b2-e15c66c497a8
 
-In the project directory, you can run:
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Logo Görseli
+![todo-react](https://github.com/YildizGokhan/todo-app/assets/144238207/68fc8b25-3343-49c5-8d5b-0b814381fb73)
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Kullanım
+Uygulama başladığında, ekran üzerinde "Yapılacaklar" başlığı altında bir giriş alanı ve eklenmiş yapılacakları gösteren bir liste bulunur.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Yapılacak Ekleme: Giriş alanına yapılacak bir şey yazın ve "Add" düğmesine tıklayın.
+Yapılacak Düzenleme: Bir yapılacak öğesinin yanındaki kalem simgesine tıklayarak yapılacakları düzenleyin.
+Yapılacak İşaretleme: Yapılacakların yanındaki kutucuğa tıklayarak işleri işaretleyin.
+Yapılacak Silme: Yapılacakların yanındaki çöp kutusu simgesine tıklayarak işleri silin.
+Tümünü Temizleme: Listenin altında bulunan "Clear All" düğmesine tıklayarak tüm yapılacakları temizleyin.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+React
+React Bootstrap
+React Icons
+HTML ve CSS
+JavaScript (ES6+)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![image](https://github.com/YildizGokhan/todo-app/assets/144238207/d5180956-5ad4-404f-aef3-ae41c38a8958)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Ana Ekran
+![image](https://github.com/YildizGokhan/todo-app/assets/144238207/581d482c-9b73-45c3-8ac0-b848b7dd9638)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Eklemeler
+![image](https://github.com/YildizGokhan/todo-app/assets/144238207/13179832-b181-4bd4-885f-b9e1c565c23c)
+ Görev içi değişiklik
+ ![image](https://github.com/YildizGokhan/todo-app/assets/144238207/bb8ae1d8-8896-4e3e-b179-3d2b59ed1177)
+![image](https://github.com/YildizGokhan/todo-app/assets/144238207/9f41c49b-b179-486f-9124-2a6e6d2a0158)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Tek tek ve tümünü silme,
+![image](https://github.com/YildizGokhan/todo-app/assets/144238207/1876f8fe-4bd5-420a-9415-593b1491c027)
+![image](https://github.com/YildizGokhan/todo-app/assets/144238207/0aa6172d-3941-497b-8149-d79e58bbe6fe)
+Clear All ile başlangıç durumuna dönülebilir.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
