@@ -13,12 +13,12 @@ const Header = ({ handleTodo, todo, addItem }) => {
 
     return (
         <div className='text-danger w-100'>
-            
-     
-                <h1 className='text-danger text-center'>My Task(s)</h1>
-            
+
+
+            <h1 className='text-danger text-center'>My Task(s)</h1>
+
             <Col className='container-fluid'>
-                <Form className='gap-2'>
+                <Form className='gap-2' onSubmit={handleAddItem}>
                     <InputGroup className="mb-3">
                         <Form.Control
                             placeholder="My Task(s)?"
@@ -26,10 +26,9 @@ const Header = ({ handleTodo, todo, addItem }) => {
                             aria-describedby="basic-addon2"
                             onChange={handleTodo}
                             value={todo}
-
                         />
                         <Button
-                            onClick={handleAddItem}
+
                             type='submit' variant="primary" id="button-addon2" className='input-group-text bg-success btn btn-primary'>
                             Add
                         </Button>

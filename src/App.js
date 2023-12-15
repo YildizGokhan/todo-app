@@ -24,6 +24,7 @@ function App() {
       setItems([...items, item])
       setTodo("");
     }
+    
   }
 
   const deleteItem = (id) => {
